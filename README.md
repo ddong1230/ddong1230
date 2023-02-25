@@ -22,3 +22,6 @@ Databases:
 	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
 </div>
+
+## 📊 Github Statistics
+![Dylan's github stats](https://github-readme-stats.vercel.app/api?username=ddong1230&theme=default_repocard&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddong1230&langs_count=10&theme=default_repocard&layout=compact)](https://github.com/ddong1230)
